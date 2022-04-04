@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Witor-WT
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning C#
+Estudante Polivalente Londrina
 
 <!---
 Witor-WT/Witor-WT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
